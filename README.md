@@ -29,15 +29,41 @@ Every folder is numbered and arranged in order, making it easy to jump straight 
 
 ---
 
+## 📅 Experiment dates
+
+| # | Experiment | Date |
+|:---:|:---|:---:|
+| 01 | [LAN design and performance](./Exp%2001/) | 5/10/26 |
+| 02 | [VLAN segmentation and inter-VLAN routing](./Exp%2002/) | 7/10/26 |
+| 03 | [DNS and DHCP configuration](./Exp%2003/) | 7/10/26 |
+| 04 | [SMTP and FTP services](./Exp%2004/) | 14/10/26 |
+| 05 | [HTTP and HTTPS packet analysis](./Exp%2005/) | 16/10/26 |
+| 06 | [IPv4/IPv6 addressing and subnetting](./Exp%2006/) | 16/10/26 |
+| 07 | [RIP, OSPF and BGP routing](./Exp%2007/) | 23/10/26 |
+| 08 | [SNMP network monitoring](./Exp%2008/) | 21/10/26 |
+| 09 | [IoT smart home networking](./Exp%2009/) | 28/10/26 |
+| 10 | [QoS and traffic engineering](./Exp%2010/) | 26/10/26 |
+| 11 | [NFV, cloud and edge networking](./Exp%2011/) | 4/11/26 |
+| 12 | [5G and IoT connectivity](./Exp%2012/) | 6/11/26 |
+| 13 | [Suspicious network traffic analysis](./Exp%2013/) | 20/11/26 |
+| 14 | [Phishing email investigation](./Exp%2014/) | 21/11/26 |
+| 15 | [AES and RSA cryptography analysis](./Exp%2015/) | 21/11/26 |
+| 16 | [TLS/HTTPS security analysis](./Exp%2016/) | 18/11/26 |
+| 17 | [Malware detection in an isolated lab](./Exp%2017/) | 18/11/26 |
+| 18 | [Router firewall policies](./Exp%2018/) | 18/11/26 |
+| 19 | [IDS/IPS alert analysis](./Exp%2019/) | 16/11/26 |
+| 20 | [VPN configuration and remote access](./Exp%2020/) | 20/11/26 |
+| 21 | [Web application vulnerability assessment](./Exp%2021/) | 23/11/26 |
+
+---
+
 ## 🎨 What’s inside?
 
 📁 **21 numbered folders** — one home for each experiment  
 🖼️ **Screenshots and supporting images** — kept with the experiment they belong to  
 🔢 **Simple navigation** — folders run from **Exp 01** through **Exp 21**
 
-## 🚀 Find your way around
-
-Choose an experiment from the index above to view its files. Folder contents vary by experiment and may include multiple objectives, screenshots, or other supporting material.
+Choose an experiment from either index to view its files. Folder contents vary by experiment and may include multiple objectives, screenshots, or other supporting material.
 
 ---
 
